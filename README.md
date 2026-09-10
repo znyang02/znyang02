@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Nancy Yang (she/her)
 
 <!--
 **znyang02/znyang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
